@@ -1,8 +1,10 @@
 # NewsApp
- Simple android app for reading news frome whole internet resources, adding favorites news with login/registration account
- 
- ![](screenshots/1.png)
- ![](screenshots/2.png)
- ![](screenshots/3.png)
- ![](screenshots/4.png)
- ![](screenshots/5.png)
+Designed and implemented a simple news aggregator app on the Android platform.
+# Features
+- Users allowed to have an account with login/registration options.
+- Fetching news from internet sources.
+- Save articles as favorites.
+- Key information displayed includes news publisher, article title, article image and summary text.
+- Alerts that can be pushed to a user in the form of notifications.
+- Configure and choose specific topics.
+- Easy to use and navigate.
